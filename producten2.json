@@ -702,5 +702,77 @@
     "url": "https://lander45495.github.io/producten2.json/producten2.json",
     "image": "images/pictures/twiggi.jpg",
     "description": "106217"
+  },
+  {
+    "id": "100803",
+    "name": "Invisible LOW 600",
+    "price": 399.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 100803"
+  },
+  {
+    "id": "100800",
+    "name": "Invisible LOW 700",
+    "price": 419.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 100800"
+  },
+  {
+    "id": "100801",
+    "name": "Invisible LOW 800",
+    "price": 449.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 100801"
+  },
+  {
+    "id": "100802",
+    "name": "Invisible LOW 900",
+    "price": 479.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 100802"
+  },
+  {
+    "id": "500803",
+    "name": "Invisible PRO 600",
+    "price": 469.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 500803"
+  },
+  {
+    "id": "500800",
+    "name": "Invisible PRO 700",
+    "price": 489.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 500800"
+  },
+  {
+    "id": "500801",
+    "name": "Invisible PRO 800",
+    "price": 519.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 500801"
+  },
+  {
+    "id": "500802",
+    "name": "Invisible PRO 900",
+    "price": 449.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 500802"
+  },
+  {
+    "id": "500804",
+    "name": "Invisible PRO 1000",
+    "price": 579.00,
+    "url": "https://lander45495.github.io/producten2.json",
+    "image": "../images/pictures/invisible.jpg",
+    "description": "Artikelnummer: 500804"
   }
 ]
